@@ -41,7 +41,7 @@ transform = transforms.Compose([
 ])
  ```
 
-Read the HTRU1 dataset:
+Read the RELICS dataset:
 
 ```python
 # choose the training and test datasets
