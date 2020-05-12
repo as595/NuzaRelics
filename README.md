@@ -1,5 +1,4 @@
 # NuzaRelics
-Nuza Relics Batched Dataset
 
 The [RELICS Batched Dataset](https://raw.githubusercontent.com/as595/NuzaRelics/master/nuza-batches-py.tar.gz) Contains NVSS images of the radio relics from the combined catalog of:
 
