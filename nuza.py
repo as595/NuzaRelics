@@ -34,10 +34,10 @@ class RELICS(data.Dataset):
     base_folder = 'nuza-batches-py'
     url = "https://raw.githubusercontent.com/as595/NuzaRelics/master/nuza-batches-py.tar.gz"
     filename = "nuza-batches-py.tar.gz"
-    tgz_md5 = 'fed5354b29806bfdfedc95b11abe76c5'
+    tgz_md5 = '7421a6c0bae5b0de6d021f20e4a25e87'
 
     test_list = [
-                 ['test_batch', 'e474cc296078d3b3f4998bfa77c33824'],
+                 ['test_batch', '771bf3eb738a8efa4121497b7f9125a0'],
                  ]
     meta = {
                 'filename': 'batches.meta',
