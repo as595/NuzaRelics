@@ -24,7 +24,7 @@ from torchvision import datasets
 import torchvision.transforms as transforms
 ```
 
-Then import the HTRU1 class:
+Then import the RELICS class:
 
 ```python
 from nuza import RELICS
