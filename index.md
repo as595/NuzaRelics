@@ -7,6 +7,7 @@ layout: default
 The [RELICS Batched Dataset](https://raw.githubusercontent.com/as595/NuzaRelics/master/nuza-batches-py.tar.gz) Contains NVSS images of the radio relics from the combined catalog of:
 
 *Can cluster merger shocks reproduce the luminosity and shape distribution of radio relics?*
+
 Nuza, Gelszinnis, Hoeft & Yepes, 2017, Monthly Notices of the Royal Astronomical Society, vol. 470, pp. 240-263 [arXiv:1704.06661](https://arxiv.org/abs/1704.06661)
 
 ## The RELICS Batched Dataset
